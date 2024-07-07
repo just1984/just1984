@@ -1,3 +1,5 @@
+Hey there, I am a mobile app developer and freelance photojournalist with years of experience in both fields. Currently I am taking part in a Data Science & AI Bootcamp.
+
 ## Get in contact:
 [![Boris Niehaus](https://img.shields.io/badge/Website-borisniehaus.de-0077B5?style=for-the-badge)](https://borisniehaus.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/bo--niehaus-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/bo-niehaus)
@@ -29,5 +31,3 @@
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
 ![Gemini](https://img.shields.io/badge/Gemini-00DCFA?style=for-the-badge&logo=google)
-
-![Visitors](https://img.shields.io/badge/Visitors-3426-blue?style=for-the-badge)
