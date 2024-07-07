@@ -6,7 +6,7 @@ I am a mobile app developer. Currently, I am taking part in a Data Science & AI 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/bo--niehaus-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/bo-niehaus)
 [![Medium](https://img.shields.io/badge/Medium-medium.com/@bo.niehaus-0077B5?style=for-the-badge&logo=medium)](https://medium.com/@bo.niehaus)
 
-## Apps i build:
+## Apps i built (iOS, Kotlin & Flutter):
 [![PolizeiStressi](https://img.shields.io/badge/PolizeiStressi-556B2F?style=for-the-badge)](https://polizeistressi.de)
 [![Die Farbe Rot](https://img.shields.io/badge/Die_Farbe_Rot-FF4500?style=for-the-badge)](https://borisniehaus.de/diefarberot/)
 [![Schulbaer](https://img.shields.io/badge/Schulbaer-1E90FF?style=for-the-badge)](https://borisniehaus.de/schulbaer/)
