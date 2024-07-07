@@ -1,4 +1,4 @@
-##Hey there, 
+## Hey there, 
 I am a mobile app developer and freelance photojournalist with years of experience in both fields. Currently I am taking part in a Data Science & AI Bootcamp.
 
 ## Get in contact:
