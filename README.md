@@ -7,15 +7,15 @@ I am a mobile app developer. Currently, I am taking part in a Data Science & AI 
 [![Medium](https://img.shields.io/badge/Medium-medium.com/@bo.niehaus-0077B5?style=for-the-badge&logo=medium)](https://medium.com/@bo.niehaus)
 
 ## Apps i build:
-[![Privileges App](https://img.shields.io/badge/Privileges_App-6A5ACD?style=for-the-badge)](https://privileges.app)
 [![PolizeiStressi](https://img.shields.io/badge/PolizeiStressi-556B2F?style=for-the-badge)](https://polizeistressi.de)
 [![Die Farbe Rot](https://img.shields.io/badge/Die_Farbe_Rot-FF4500?style=for-the-badge)](https://borisniehaus.de/diefarberot/)
 [![Schulbaer](https://img.shields.io/badge/Schulbaer-1E90FF?style=for-the-badge)](https://borisniehaus.de/schulbaer/)
+[![Privileges App](https://img.shields.io/badge/Privileges_App-6A5ACD?style=for-the-badge)](https://privileges.app)
 
 ## Technologies i like:
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
