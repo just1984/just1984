@@ -1,3 +1,16 @@
+## Get in contact:
+[![Boris Niehaus](https://img.shields.io/badge/Website-borisniehaus.de-000000?style=for-the-badge)](https://borisniehaus.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/bo--niehaus-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/bo-niehaus)
+[![GitHub](https://img.shields.io/badge/GitHub-github.com/just1984-181717?style=for-the-badge&logo=github)](https://github.com/just1984)
+[![Medium](https://img.shields.io/badge/Medium-medium.com/@bo.niehaus-12100E?style=for-the-badge&logo=medium)](https://medium.com/@bo.niehaus)
+
+## Apps i build:
+[![Privileges App](https://img.shields.io/badge/Privileges_App-000000?style=for-the-badge)](https://privileges.app)
+[![PolizeiStressi](https://img.shields.io/badge/PolizeiStressi-FF0000?style=for-the-badge)](https://polizeistressi.de)
+[![Die Farbe Rot](https://img.shields.io/badge/Die_Farbe_Rot-FF4500?style=for-the-badge)](https://borisniehaus.de/diefarberot/)
+[![Schulbaer](https://img.shields.io/badge/Schulbaer-FFD700?style=for-the-badge)](https://borisniehaus.de/schulbaer/)
+
+## Technologies i like:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
@@ -16,4 +29,6 @@
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-00DCFA?style=for-the-badge&logo=gemini)
+![Gemini](https://img.shields.io/badge/Gemini-00DCFA?style=for-the-badge&logo=google)
+
+![Visitors](https://img.shields.io/badge/Visitors-3426-blue?style=for-the-badge)
