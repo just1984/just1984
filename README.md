@@ -1,8 +1,7 @@
 ## Get in contact:
-[![Boris Niehaus](https://img.shields.io/badge/Website-borisniehaus.de-000000?style=for-the-badge)](https://borisniehaus.de)
+[![Boris Niehaus](https://img.shields.io/badge/Website-borisniehaus.de-0077B5?style=for-the-badge)](https://borisniehaus.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/bo--niehaus-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/bo-niehaus)
-[![GitHub](https://img.shields.io/badge/GitHub-github.com/just1984-181717?style=for-the-badge&logo=github)](https://github.com/just1984)
-[![Medium](https://img.shields.io/badge/Medium-medium.com/@bo.niehaus-12100E?style=for-the-badge&logo=medium)](https://medium.com/@bo.niehaus)
+[![Medium](https://img.shields.io/badge/Medium-medium.com/@bo.niehaus-0077B5?style=for-the-badge&logo=medium)](https://medium.com/@bo.niehaus)
 
 ## Apps i build:
 [![Privileges App](https://img.shields.io/badge/Privileges_App-000000?style=for-the-badge)](https://privileges.app)
