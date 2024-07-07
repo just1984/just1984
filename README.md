@@ -1,4 +1,4 @@
-## Hey there,  
+## Hey there :wave:
 I am a mobile app developer. Currently, I am taking part in a Data Science & AI Bootcamp with LeWagon. Please get in contact for collaborations and projects (domestic and international).
 
 ## Get in contact:
