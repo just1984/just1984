@@ -1,5 +1,5 @@
-## Hey there, 
-I am a mobile app developer and freelance photojournalist with years of experience in both fields. Currently I am taking part in a Data Science & AI Bootcamp.
+## Hey there,  
+I am a mobile app developer. Currently, I am taking part in a Data Science & AI Bootcamp with LeWagon. Please get in contact for collaborations and projects (domestic and international).
 
 ## Get in contact:
 [![Boris Niehaus](https://img.shields.io/badge/Website-borisniehaus.de-0077B5?style=for-the-badge)](https://borisniehaus.de)
