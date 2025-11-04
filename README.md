@@ -33,4 +33,4 @@ I am a mobile app developer and a proud graduate of the Data Science & AI Bootca
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
 ![Gemini](https://img.shields.io/badge/Gemini-00DCFA?style=for-the-badge&logo=google)
 
-![Le Wagon Certificate](https://borisniehaus.de/certificate_lewagon.JPG)
+![Le Wagon Certificate](https://borisniehaus.de/images/certificate_lewagon.JPG)
